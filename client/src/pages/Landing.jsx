@@ -52,7 +52,7 @@ function Landing() {
       </nav>
 
       {/* Hero Section */}
-      <section className="relative z-10 pt-24 pb-16 lg:pt-32 lg:pb-24">
+      <section className="relative z-10 pt-24 pb-16 lg:pt-12 lg:pb-24">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-900/60 border border-white/10 mb-8 animate-fade-in-up">
             <span className="flex h-2 w-2 rounded-full bg-yellow-500"></span>
